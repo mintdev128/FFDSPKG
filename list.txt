@@ -1,2 +1,4 @@
 List of programs in repo 
-hw, infetch, test
+hw       hello world          by FlameDev
+infetch  Shows Minimal info   by FlameDev
+test     Simple math test     By FlameDev
